@@ -32,7 +32,7 @@ Deliverables
 
 Scope and Gap Mapping
 
-	The target system for this project was a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. Configuration gaps were assessed against the NIST 800-53 Rev. 5.
+	The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. Configuration gaps were assessed against the NIST 800-53 Rev. 5.
   
 
 
@@ -50,7 +50,7 @@ Tools Used for Assessment and Evidence Collection
 
 Scoring the Risk
 
-	The risk of each control was qualitatively scored based on a standard 3x3 Risk Assessment Matrix, with risk scores ranging from Low to Critical. Each likelihood and impact level were scored as follows:
+	The risk of each control is qualitatively scored based on a standard 3x3 Risk Assessment Matrix, with risk scores ranging from Low to Critical. Each likelihood and impact level were scored as follows:
 
 	Likelihood:
 	Low – Rare conditions needed to exploit the vulnerability
@@ -69,7 +69,7 @@ Scoring the Risk
 
 Remediation
 
-	The POA&M was separated into two sections: Immediate Fixes and Continuous Monitoring/Management. Immediate Fixes will be fully deployed in 1 week, while the long-term changes will be fully deployed in 5-6 weeks. By implementing both immediate and continuous security posture improvements, we will drastically reduce system risk, establish a truly secure baseline, and maintain a NIST 800-53 Rev. 5 compliant identity environment.
+	The POA&M is separated into two sections: Immediate Fixes and Continuous Monitoring/Management. Immediate Fixes will be fully deployed in 1 week, while the long-term changes will be fully deployed in 5-6 weeks. By implementing both immediate and continuous security posture improvements, we will drastically reduce system risk, establish a truly secure baseline, and maintain a NIST 800-53 Rev. 5 compliant identity environment.
 
 
 
