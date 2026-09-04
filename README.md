@@ -5,6 +5,10 @@ Summary
 This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessment and Plan of Action and Milestones (POA&M) for a newly deployed Active Directory Domain Controller baseline. Utilizing PingCastle: an open-source auditing tool, and Microsoft Policy Analyzer: a group policy evaluation app, the goal of this project is to identify configuration gaps, evaluate system risk against compliance baselines, and deliver an actionable, operational remediation roadmap.
 
 
+
+
+
+
 Deliverables
 
 Executive Summary.pdf --> Project overview
@@ -22,14 +26,26 @@ artifacts/ --> Sanitized visual artifacts
   TaskSchedule_LifecycleAutomation.png
   
 
+
+
+
+
 Scope and Gap Mapping
 
 The target system for this project was a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. Configuration   gaps were assessed against the NIST 800-53 Rev. 5.
   
 
+
+
+
+
 Tools Used for Assessment and Evidence Collection
 
 PingCastle was used for the initial security posture assessment. Along with overall risk, the tool isolated key misconfigurations, the risks associated with       them, supporting documentation, and remediation recommendations. Microsoft Policy Analyzer was used to directly compare the domain Group Policy Objects   (GPOs) with an established baseline (downloaded via Microsoft Security Compliance Toolkit 1.0).
+
+
+
+
 
 
 Scoring the Risk
@@ -45,6 +61,10 @@ Impact:
 Low – Minimal privilege escalation, minor data/information disclosure
 Medium – Partial network access, lateral movement, etc.
 High – Domain takeover, sensitive data exposed, system downtime
+
+
+
+
 
 
 Remediation
