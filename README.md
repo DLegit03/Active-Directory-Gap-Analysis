@@ -43,10 +43,13 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 
 
 
-## Scope and Gap Mapping
+## Scope
 
-The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. The server is being ran within a ProxMox virtual environment on-premises. Configuration gaps were assessed against the NIST 800-53 Rev. 5.
-  
+The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. The server is being ran within a ProxMox virtual environment on-premises.
+
+<img width="791" height="517" alt="Screenshot 2026-09-05 151507" src="https://github.com/user-attachments/assets/ceb31741-eac8-4109-b69b-834d26da2cb9" />
+
+*Home Lab topology*  
 
 
 
