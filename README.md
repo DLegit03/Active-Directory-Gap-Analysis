@@ -11,15 +11,15 @@ Summary
 
 Deliverables
 
-	Executive Summary.pdf --> Project overview
+	**[Project Overview (PDF)](Executive Summary.pdf)**
 
-	AD_Assessment_Workbook.xlsx
+	**[Master Assessment Workbook (Excel)](AD_Assessment_Workbook.xlsx)**
   		Dashboard --> High-level visuals, legends
   		Gap Analysis Matrix --> Current vs. desired state, framework mapping, risk scores
   		POA&M --> Chronological Remediation
   		Policy Analyzer Scan --> Raw GPO Comparison Data
   
-	artifacts/ --> Sanitized visual artifacts
+	**[Sanitized Evidence](evidence/)**
   		PingCastle_LAB-ENV.html
   		Wazuh_agent_endpoints.png
   		TaskSchedule.png
