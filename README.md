@@ -17,6 +17,17 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
   - **POA&M** — Chronological Remediation
   - **Policy Analyzer Scan** — Raw GPO Comparison Data
 
+
+
+<img width="1172" height="673" alt="Sample_Matrix" src="https://github.com/user-attachments/assets/4432d355-21f2-4414-b7a1-b30f3bdce8a3" />
+
+*Sample data from Gap Analysis Matrix*
+
+<img width="727" height="672" alt="Sample_POAM" src="https://github.com/user-attachments/assets/5f7cb109-9718-4e22-8460-d35c0648a72b" />
+
+*Sample data from POA&M*
+
+
 ## Artifacts
 - [PingCastle Assessment (HTML)](./evidence/PingCastle_LAB-ENV.html)
 - [Wazuh Agent Endpoints (PNG)](./evidence/Wazuh_agent_endpoints.png)
