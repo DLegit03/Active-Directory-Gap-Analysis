@@ -93,8 +93,6 @@ High – Domain takeover, sensitive data exposed, system downtime
 
 The POA&M is separated into two sections: Immediate Fixes and Continuous Monitoring/Management. Immediate Fixes will be fully deployed in 1 week, while the long-term changes will be fully deployed in 5-6 weeks. By implementing both immediate and continuous security posture improvements, we will drastically reduce system risk, establish a truly secure baseline, and maintain a NIST 800-53 Rev. 5 compliant identity environment.
 
-
-
   
   
   
