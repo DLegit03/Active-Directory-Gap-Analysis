@@ -23,16 +23,17 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 
 *Sample data from Gap Analysis Matrix*
 
-<img width="1172" height="673" alt="Screenshot 2026-09-05 150542" src="https://github.com/user-attachments/assets/af70dd5f-a9ea-41f1-9057-1a6c41ce1d8f" />
-
-*Sample data from POA&M*
-
 
 ## Artifacts
 - [PingCastle Assessment (HTML)](./evidence/PingCastle_LAB-ENV.html)
 - [Wazuh Agent Endpoints (PNG)](./evidence/Wazuh_agent_endpoints.png)
 - [Task Schedule (PNG)](./evidence/TaskSchedule.png)
-  
+
+
+  <img width="1172" height="673" alt="Screenshot 2026-09-05 150748" src="https://github.com/user-attachments/assets/c101122f-5edb-4f46-9602-cc9695d8270d" />
+
+*Sample data from PingCastle scan*
+
 
 ## Key Findings
 - NTLMv1 authentication protocol left enabled
