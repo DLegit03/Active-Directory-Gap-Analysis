@@ -19,7 +19,7 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 
 
 
-<img width="900" height="673" alt="Sample_Matrix" src="https://github.com/user-attachments/assets/4432d355-21f2-4414-b7a1-b30f3bdce8a3" />
+<img width="900" height="650" alt="Sample_Matrix" src="https://github.com/user-attachments/assets/4432d355-21f2-4414-b7a1-b30f3bdce8a3" />
 
 *Sample data from Gap Analysis Matrix*
 
@@ -30,7 +30,7 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 - [Task Schedule (PNG)](./evidence/TaskSchedule.png)
 
 
-  <img width="900" height="673" alt="Screenshot 2026-09-05 150748" src="https://github.com/user-attachments/assets/c101122f-5edb-4f46-9602-cc9695d8270d" />
+  <img width="900" height="650" alt="Screenshot 2026-09-05 150748" src="https://github.com/user-attachments/assets/c101122f-5edb-4f46-9602-cc9695d8270d" />
 
 *Sample data from PingCastle scan*
 
@@ -47,7 +47,7 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 
 The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. The server is being ran within a ProxMox virtual environment on-premises.
 
-<img width="600" height="517" alt="Screenshot 2026-09-05 151507" src="https://github.com/user-attachments/assets/ceb31741-eac8-4109-b69b-834d26da2cb9" />
+<img width="600" height="450" alt="Screenshot 2026-09-05 151507" src="https://github.com/user-attachments/assets/ceb31741-eac8-4109-b69b-834d26da2cb9" />
 
 *Home Lab topology*  
 
