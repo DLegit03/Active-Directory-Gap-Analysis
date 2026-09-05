@@ -10,18 +10,17 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 
 
 ## Deliverables
-
-* [Executive Summary (PDF)](./Executive_Summary.pdf) — Project overview
-* [AD Assessment Workbook (XLSX)](./AD_Assessment_Workbook.xlsx)
-  * **Dashboard** — High-level visuals, legends
-  * **Gap Analysis Matrix** — Current vs. desired state, framework mapping, risk scores
-  * **POA&M** — Chronological Remediation
-  * **Policy Analyzer Scan** — Raw GPO Comparison Data
+- [Executive Summary (PDF)](https://github.com/DLegit03/Active-Directory-Gap-Analysis/raw/main/Executive_Summary.pdf) — Project overview
+- [AD Assessment Workbook (XLSX)](https://github.com/DLegit03/Active-Directory-Gap-Analysis/raw/main/AD_Assessment_Workbook.xlsx)
+  - **Dashboard** — High-level visuals, legends
+  - **Gap Analysis Matrix** — Current vs. desired state, framework mapping, risk scores
+  - **POA&M** — Chronological Remediation
+  - **Policy Analyzer Scan** — Raw GPO Comparison Data
 
 ## Artifacts
-* [PingCastle Assessment (HTML)](./evidence/PingCastle_LAB-ENV.html)
-* [Wazuh Agent Endpoints (PNG)](./evidence/Wazuh_agent_endpoints.png)
-* [Task Schedule (PNG)](./evidence/TaskSchedule.png)
+- [PingCastle Assessment (HTML)](./evidence/PingCastle_LAB-ENV.html)
+- [Wazuh Agent Endpoints (PNG)](./evidence/Wazuh_agent_endpoints.png)
+- [Task Schedule (PNG)](./evidence/TaskSchedule.png)
   
 
 
