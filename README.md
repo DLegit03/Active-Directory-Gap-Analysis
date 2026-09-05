@@ -19,7 +19,7 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 
 
 
-<img width="1172" height="673" alt="Sample_Matrix" src="https://github.com/user-attachments/assets/4432d355-21f2-4414-b7a1-b30f3bdce8a3" />
+<img width="600" height="673" alt="Sample_Matrix" src="https://github.com/user-attachments/assets/4432d355-21f2-4414-b7a1-b30f3bdce8a3" />
 
 *Sample data from Gap Analysis Matrix*
 
@@ -30,7 +30,7 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 - [Task Schedule (PNG)](./evidence/TaskSchedule.png)
 
 
-  <img width="1172" height="673" alt="Screenshot 2026-09-05 150748" src="https://github.com/user-attachments/assets/c101122f-5edb-4f46-9602-cc9695d8270d" />
+  <img width="600" height="673" alt="Screenshot 2026-09-05 150748" src="https://github.com/user-attachments/assets/c101122f-5edb-4f46-9602-cc9695d8270d" />
 
 *Sample data from PingCastle scan*
 
