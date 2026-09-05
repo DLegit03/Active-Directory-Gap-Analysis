@@ -14,7 +14,7 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 - [AD Assessment Workbook (XLSX)](https://github.com/DLegit03/Active-Directory-Gap-Analysis/raw/main/AD_Assessment_Workbook.xlsx)
   - **Dashboard** — High-level visuals, legends
   - **Gap Analysis Matrix** — Current vs. desired state, framework mapping, risk scores
-  - **POA&M** — Chronological Remediation
+  - **POA&M** — Granular, chronological remediation
   - **Policy Analyzer Scan** — Raw GPO Comparison Data
 
 
