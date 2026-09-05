@@ -19,9 +19,9 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
   * **Policy Analyzer Scan** — Raw GPO Comparison Data
 
 ## Artifacts
-* [PingCastle Assessment (HTML)](./artifacts/PingCastle_LAB-ENV.html)
-* [Wazuh Agent Endpoints (PNG)](./artifacts/Wazuh_agent_endpoints.png)
-* [Task Schedule (PNG)](./artifacts/TaskSchedule.png)
+* [PingCastle Assessment (HTML)](./evidence/PingCastle_LAB-ENV.html)
+* [Wazuh Agent Endpoints (PNG)](./evidence/Wazuh_agent_endpoints.png)
+* [Task Schedule (PNG)](./evidence/TaskSchedule.png)
   
 
 
