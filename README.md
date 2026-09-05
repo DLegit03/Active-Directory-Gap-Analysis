@@ -9,20 +9,19 @@ Summary
 
 
 
-Deliverables
+## Deliverables
 
-	**[Project Overview (PDF)](Executive Summary.pdf)**
+* [Executive Summary (PDF)](./Executive_Summary.pdf) — Project overview
+* [AD Assessment Workbook (XLSX)](./AD_Assessment_Workbook.xlsx)
+  * **Dashboard** — High-level visuals, legends
+  * **Gap Analysis Matrix** — Current vs. desired state, framework mapping, risk scores
+  * **POA&M** — Chronological Remediation
+  * **Policy Analyzer Scan** — Raw GPO Comparison Data
 
-	**[Master Assessment Workbook (Excel)](AD_Assessment_Workbook.xlsx)**
-  		Dashboard --> High-level visuals, legends
-  		Gap Analysis Matrix --> Current vs. desired state, framework mapping, risk scores
-  		POA&M --> Chronological Remediation
-  		Policy Analyzer Scan --> Raw GPO Comparison Data
-  
-	**[Sanitized Evidence](evidence/)**
-  		PingCastle_LAB-ENV.html
-  		Wazuh_agent_endpoints.png
-  		TaskSchedule.png
+### Artifacts
+* [PingCastle Assessment (HTML)](./artifacts/PingCastle_LAB-ENV.html)
+* [Wazuh Agent Endpoints (PNG)](./artifacts/Wazuh_agent_endpoints.png)
+* [Task Schedule (PNG)](./artifacts/TaskSchedule.png)
   
 
 
