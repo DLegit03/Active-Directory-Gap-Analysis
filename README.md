@@ -23,7 +23,7 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 
 *Sample data from Gap Analysis Matrix*
 
-<img width="727" height="672" alt="Sample_POAM" src="https://github.com/user-attachments/assets/5f7cb109-9718-4e22-8460-d35c0648a72b" />
+<img width="1172" height="673" alt="Screenshot 2026-09-05 150542" src="https://github.com/user-attachments/assets/af70dd5f-a9ea-41f1-9057-1a6c41ce1d8f" />
 
 *Sample data from POA&M*
 
