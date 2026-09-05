@@ -23,13 +23,17 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 - [Task Schedule (PNG)](./evidence/TaskSchedule.png)
   
 
-
+## Key Findings
+- NTLMv1 authentication protocol left enabled
+- Lack of user lifecycle automation/governance
+- Lack of domain audit visibility
+- Several Group Policy Objects contain conflicting policy
 
 
 
 ## Scope and Gap Mapping
 
-The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. Configuration gaps were assessed against the NIST 800-53 Rev. 5.
+The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. The server is being ran within a ProxMox virtual environment on-premises. Configuration gaps were assessed against the NIST 800-53 Rev. 5.
   
 
 
@@ -38,7 +42,13 @@ The target system for this project is a Windows Server Active Directory Domain C
 
 ## Tools Used for Assessment and Evidence Collection
 
-PingCastle was used for the initial security posture assessment. Along with overall risk, the tool isolated key misconfigurations, the risks associated with them, supporting documentation, and remediation recommendations. Microsoft Policy Analyzer was used to directly compare the domain Group Policy Objects (GPOs) with an established baseline (downloaded via Microsoft Security Compliance Toolkit 1.0).
+PingCastle was used for the initial security posture assessment. Along with overall risk, the tool isolated key misconfigurations, the risks associated with them, supporting documentation, and remediation recommendations. Microsoft Policy Analyzer was used to directly compare the domain Group Policy Objects (GPOs) with an established baseline (downloaded via Microsoft Security Compliance Toolkit 1.0). Active Directory Domain Services, Group Policy Management, and Wazuh were also used. 
+
+#### Frameworks
+- NIST CSF 2.0
+- NIST SP 800-53 Rev. 5
+
+
 
 
 
