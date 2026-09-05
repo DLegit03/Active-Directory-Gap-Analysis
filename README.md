@@ -50,12 +50,12 @@ PingCastle was used for the initial security posture assessment. Along with over
 
 The risk of each control is qualitatively scored based on a standard 3x3 Risk Assessment Matrix, with risk scores ranging from Low to Critical. Each likelihood and impact level were scored as follows:
 
-# Likelihood:
+#### Likelihood:
 Low – Rare conditions needed to exploit the vulnerability
 Medium – Requires a compromised account, elevated access, or complex conditions to exploit the vulnerability
 High – Known scripts/documentation are available and/or standard domain users are vulnerable
 	
-# Impact:
+#### Impact:
 Low – Minimal privilege escalation, minor data/information disclosure
 Medium – Partial network access, lateral movement, etc.
 High – Domain takeover, sensitive data exposed, system downtime
