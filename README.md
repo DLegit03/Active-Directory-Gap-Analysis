@@ -35,14 +35,6 @@ This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessme
 *Sample data from PingCastle scan*
 
 
-## Key Findings
-- NTLMv1 authentication protocol left enabled
-- Lack of user lifecycle automation/governance
-- Lack of domain audit visibility
-- Several Group Policy Objects contain conflicting policy
-
-
-
 ## Scope
 
 The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. The server is being ran within a ProxMox virtual environment on-premises.
@@ -51,7 +43,11 @@ The target system for this project is a Windows Server Active Directory Domain C
 
 *Home Lab topology*  
 
-
+## Key Findings
+- NTLMv1 authentication protocol left enabled
+- Lack of user lifecycle automation/governance
+- Lack of domain audit visibility
+- Several Group Policy Objects contain conflicting policy
 
 
 
