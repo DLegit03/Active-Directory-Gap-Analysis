@@ -1,6 +1,6 @@
 # Active-Directory-Gap-Analysis
 
-Summary
+## Summary
 
 	This repository contains a comprehensive NIST SP 800-53 Rev. 5 Security Assessment and Plan of Action and Milestones (POA&M) for a newly deployed Active Directory Domain Controller baseline. Utilizing PingCastle: an open-source auditing tool, and Microsoft Policy Analyzer: a group policy evaluation app, the goal of this project is to identify configuration gaps, evaluate system risk against compliance baselines, and deliver an actionable, operational remediation roadmap.
 
@@ -18,7 +18,7 @@ Summary
   * **POA&M** — Chronological Remediation
   * **Policy Analyzer Scan** — Raw GPO Comparison Data
 
-### Artifacts
+## Artifacts
 * [PingCastle Assessment (HTML)](./artifacts/PingCastle_LAB-ENV.html)
 * [Wazuh Agent Endpoints (PNG)](./artifacts/Wazuh_agent_endpoints.png)
 * [Task Schedule (PNG)](./artifacts/TaskSchedule.png)
@@ -28,7 +28,7 @@ Summary
 
 
 
-Scope and Gap Mapping
+## Scope and Gap Mapping
 
 	The target system for this project is a Windows Server Active Directory Domain Controller (LAB-ENV.LOCAL), within the fake organization Lab-Env Inc. Configuration gaps were assessed against the NIST 800-53 Rev. 5.
   
@@ -37,7 +37,7 @@ Scope and Gap Mapping
 
 
 
-Tools Used for Assessment and Evidence Collection
+## Tools Used for Assessment and Evidence Collection
 
 	PingCastle was used for the initial security posture assessment. Along with overall risk, the tool isolated key misconfigurations, the risks associated with them, supporting documentation, and remediation recommendations. Microsoft Policy Analyzer was used to directly compare the domain Group Policy Objects (GPOs) with an established baseline (downloaded via Microsoft Security Compliance Toolkit 1.0).
 
@@ -46,7 +46,7 @@ Tools Used for Assessment and Evidence Collection
 
 
 
-Scoring the Risk
+## Scoring the Risk
 
 	The risk of each control is qualitatively scored based on a standard 3x3 Risk Assessment Matrix, with risk scores ranging from Low to Critical. Each likelihood and impact level were scored as follows:
 
@@ -65,7 +65,7 @@ Scoring the Risk
 
 
 
-Remediation
+## Remediation
 
 	The POA&M is separated into two sections: Immediate Fixes and Continuous Monitoring/Management. Immediate Fixes will be fully deployed in 1 week, while the long-term changes will be fully deployed in 5-6 weeks. By implementing both immediate and continuous security posture improvements, we will drastically reduce system risk, establish a truly secure baseline, and maintain a NIST 800-53 Rev. 5 compliant identity environment.
 
