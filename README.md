@@ -21,7 +21,7 @@ Deliverables
   
 	artifacts/ --> Sanitized visual artifacts
   		PingCastle_LAB-ENV.html
-  		Wauh_agent_endpoints.png
+  		Wazuh_agent_endpoints.png
   		TaskSchedule.png
   
 
